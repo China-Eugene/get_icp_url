@@ -18,13 +18,4 @@
 直接进入Dos命令行python3 get_icp_url.py xxx.com
 
 # 执行步骤
-```flow
-st=>start: 用户输入
-op=>operation: 进行备案公司查找
-cond=>condition: 备案公司反查
-e=>end: 输出最终域名
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
