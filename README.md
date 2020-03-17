@@ -20,7 +20,7 @@
 环境需要Python3和 're,request,sys' 这三个库
 
 
-直接进入Dos命令行`python3 get_icp_url.py xxx.com`
-
+直接进入Dos命令行`python3 get_icp_url.py xxx.com`,结果会以终端输出和保存到文件
+![Result](/img/result.jpg)
 # 执行步骤
 ![Flow](img/flow.jpg)
